@@ -1,4 +1,4 @@
- {
+* {
   box-sizing: border-box;
 }
 
@@ -16,6 +16,7 @@ body,
   height: 100%;
   display: flex;
   justify-content: center;
+  font-weight: 300;
 }
 
 .loader {
