@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/eunjin0212/movie_app_2020/static/css/main.219b7d5f.chunk.css",
-    "main.js": "/eunjin0212/movie_app_2020/static/js/main.0205b70b.chunk.js",
-    "main.js.map": "/eunjin0212/movie_app_2020/static/js/main.0205b70b.chunk.js.map",
-    "runtime-main.js": "/eunjin0212/movie_app_2020/static/js/runtime-main.4129542a.js",
-    "runtime-main.js.map": "/eunjin0212/movie_app_2020/static/js/runtime-main.4129542a.js.map",
-    "static/js/2.41040f6c.chunk.js": "/eunjin0212/movie_app_2020/static/js/2.41040f6c.chunk.js",
-    "static/js/2.41040f6c.chunk.js.map": "/eunjin0212/movie_app_2020/static/js/2.41040f6c.chunk.js.map",
-    "index.html": "/eunjin0212/movie_app_2020/index.html",
-    "precache-manifest.0a99acee5fda4b19eba1f3c27ab57317.js": "/eunjin0212/movie_app_2020/precache-manifest.0a99acee5fda4b19eba1f3c27ab57317.js",
-    "service-worker.js": "/eunjin0212/movie_app_2020/service-worker.js",
-    "static/css/main.219b7d5f.chunk.css.map": "/eunjin0212/movie_app_2020/static/css/main.219b7d5f.chunk.css.map",
-    "static/js/2.41040f6c.chunk.js.LICENSE.txt": "/eunjin0212/movie_app_2020/static/js/2.41040f6c.chunk.js.LICENSE.txt"
+    "main.css": "/movie_app_2020/static/css/main.219b7d5f.chunk.css",
+    "main.js": "/movie_app_2020/static/js/main.0205b70b.chunk.js",
+    "main.js.map": "/movie_app_2020/static/js/main.0205b70b.chunk.js.map",
+    "runtime-main.js": "/movie_app_2020/static/js/runtime-main.9a083715.js",
+    "runtime-main.js.map": "/movie_app_2020/static/js/runtime-main.9a083715.js.map",
+    "static/js/2.41040f6c.chunk.js": "/movie_app_2020/static/js/2.41040f6c.chunk.js",
+    "static/js/2.41040f6c.chunk.js.map": "/movie_app_2020/static/js/2.41040f6c.chunk.js.map",
+    "index.html": "/movie_app_2020/index.html",
+    "precache-manifest.ff4cc1efe3659e9ab1027df6853facb5.js": "/movie_app_2020/precache-manifest.ff4cc1efe3659e9ab1027df6853facb5.js",
+    "service-worker.js": "/movie_app_2020/service-worker.js",
+    "static/css/main.219b7d5f.chunk.css.map": "/movie_app_2020/static/css/main.219b7d5f.chunk.css.map",
+    "static/js/2.41040f6c.chunk.js.LICENSE.txt": "/movie_app_2020/static/js/2.41040f6c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4129542a.js",
+    "static/js/runtime-main.9a083715.js",
     "static/js/2.41040f6c.chunk.js",
     "static/css/main.219b7d5f.chunk.css",
     "static/js/main.0205b70b.chunk.js"
