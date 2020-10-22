@@ -87,7 +87,3 @@ body,
   margin-right: 10px;
   font-size: 14px;
 }
-@media (max-width: 375px) {
-  .movie {
-  }
-}
