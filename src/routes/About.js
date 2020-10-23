@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 
-function About() {
+function About(history, location, match, staticContext) {
   return (
     <div className="about__container">
       <span>
